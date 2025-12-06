@@ -8,6 +8,7 @@ toc-depth: 2
 toc-title: Contents
 bibliography: references.bib
 echo: false
+output-file: index.html
 ---
 
 ```{python}
